@@ -1,4 +1,10 @@
 # KnapSack Solver App
-A dynamic programming-based KnapSack solver application built using ReactJS.
+A web application developed with ReactJS that uses dynamic programming to solve the knapsack problem, optimizing item selection within a given weight constraint to achieve maximum total value.
+
+
+
+
+
+
 
 
